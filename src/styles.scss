@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+  color: black;
+  font-family: Roboto ;
+  text-align: center;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2E112D;
+}
+
+.container{
+  max-width: 65rem;
+
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+
+
+}
